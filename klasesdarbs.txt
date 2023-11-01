@@ -2,3 +2,10 @@ Hello my name is Arsenal-1972
 
 46856436
 EUR uz ZL konvertors
+Uzrakstīt specefikāciju
+
+Lietotne konvertēs eiro uz polijas zlotu. 
+Lietotnei ir vajadzīgs valūtas dārguma mainīšanās grafiks un divi lodziņi, kur mēs ieveadisim mūms vajadzīgo skaitli, kuršs tieks konvertēts. 
+Ievaddati: Eiro daudzums vai polijas zlotu daudzums.
+Rezultāts būs attēlots izvelētas valūtas pretējā lodziņā.
+Mēs
