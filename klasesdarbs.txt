@@ -9,3 +9,4 @@ Lietotnei ir vajadzīgs valūtas dārguma mainīšanās grafiks un divi lodziņi
 Ievaddati: Eiro daudzums vai polijas zlotu daudzums.
 Rezultāts būs attēlots izvelētas valūtas pretējā lodziņā.
 Mēs
+https://code.appinventor.mit.edu/
